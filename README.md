@@ -4,7 +4,7 @@
 This project uses PySpark to analyse a large dataset of credit card transactions and build machine learning models to detect fraudulent activity. It covers data preprocessing, handling class imbalance, and training classification models at scale.
 
 ## Contents
-- `DSM010 - CW2.ipynb` — Jupyter Notebook with PySpark setup, data exploration, feature engineering, model building, and evaluation
+- `PySpark_Credit_Card_Fraud.ipynb` — Jupyter Notebook with PySpark setup, data exploration, feature engineering, model building, and evaluation
 
 ## Key Analyses
 - Data cleaning and preprocessing using PySpark
